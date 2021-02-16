@@ -28,17 +28,17 @@ h1 {
 h2 {
   color: #fff;
   text-align: center;
-  font-size: 8vw;
+  font-size: 8.1vw;
   line-height: 0.7em;
   z-index: 1000;
   font-weight: 900;
 }
 
 h2 span {
-  font-size: 0.545em;
+  font-size: 0.54em;
   letter-spacing: 0.15em;
   font-weight: 400;
-  margin-left: 5px;
+  margin-left: 6px;
   /* margin-right: 0.5px; */
   text-transform: uppercase;
   text-align: left;
