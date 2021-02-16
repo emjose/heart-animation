@@ -1,10 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&display=swap");
-
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Roboto", sans-serif;
 }
 
 .container {
@@ -20,6 +17,11 @@
   overflow: hidden;
 }
 
+h1 {
+  z-index: 10;
+  color: #fff;
+}
+
 .heart {
   position: absolute;
   width: 40px;
@@ -29,7 +31,7 @@
   box-shadow: 20px 20px 40px rgba(0, 0, 0, 0.2);
 }
 
-.heart::before {
+.heart:before {
   content: "";
   position: absolute;
   top: -50%;
@@ -41,7 +43,7 @@
   box-shadow: 0 -20px 20px rgba(0, 0, 0, 0.1);
 }
 
-.heart::after {
+.heart:after {
   content: "";
   position: absolute;
   top: 0;
@@ -50,24 +52,5 @@
   height: 100%;
   background: #e80202;
   border-radius: 50%;
-  box-shadow: -20px 0 20px rgba(0, 0, 0, 0.1);
+  box-shadow: -20px 0px 20px rgba(0, 0, 0, 0.1);
 }
-
-/* body {
-  position: relative;
-  overflow: hidden;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  background: #e80202;
-}
-
-h2 {
-  color: #fff;
-  text-align: center;
-  font-size: 8vw;
-  line-height: 0.7em;
-  z-index: 1000;
-  font-weight: 900;
-} */
