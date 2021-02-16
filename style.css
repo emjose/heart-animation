@@ -35,10 +35,10 @@ h2 {
 }
 
 h2 span {
-  font-size: 0.409em;
+  font-size: 0.545em;
   letter-spacing: 0.15em;
   font-weight: 400;
-  margin-left: 2px;
+  margin-left: 5px;
   /* margin-right: 0.5px; */
   text-transform: uppercase;
   text-align: left;
