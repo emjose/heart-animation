@@ -34,7 +34,12 @@
 
 <a href=#100days>![#100DaysOfCode](Assets/inter-100hash.png)</a>  
 
-<a href=#100days>![Under Construction](Assets/lorem-text.png)</a>
+### Day 12: February 17, 2021
+- I made two mini projects from tutorials showing how to use <a href="https://animejs.com/">Anime.js</a> to make background animations.
+
+- <a href="https://animejs.com/">Anime.js</a> is a lightweight JavaScript animation library with a simple, yet powerful API.
+
+- See <a href="https://github.com/emjose/block-animation/#header">first mini project</a>.
 
 #
 
@@ -57,7 +62,7 @@ open index.html
 
 <a href="https://emjose.github.io/heart-animation/">![Live Site](Assets/inter-live-site.png)</a>  
 
-<a href="https://emjose.github.io/heart-animation/">![Under Construction](Assets/lorem-live.png)</a>
+<a href="https://emjose.github.io/heart-animation/">![Live Site](Assets/012-hearts.gif)</a>
 
 #
 
@@ -65,7 +70,15 @@ open index.html
 
 <a href=#resources>![Resources](Assets/inter-resources.png)</a>  
 
-<a href=#resources>![Under Construction](Assets/lorem-text.png)</a>
+- #### [Google Fonts](https://fonts.google.com/)
+  
+- #### [Anime.js on Github](https://github.com/juliangarnier/anime)
+  
+- #### [Anime.js](https://animejs.com/) by [Julian Garnier](https://github.com/juliangarnier)
+  
+- #### [Animated Blocks Tutorial](https://youtu.be/XMhHEVznWEY) by [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
+
+- #### [Animated Hearts Tutorial](https://youtu.be/MBnS34iENrw) by [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
 #
 
