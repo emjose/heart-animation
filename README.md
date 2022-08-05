@@ -50,13 +50,13 @@
 
 #### Git clone and cd into the repo folder:
 
-```
+```console
 git clone git@github.com:emjose/heart-animation.git && cd heart-animation
 ```
 
 #### Run the command:
 
-```
+```console
 open index.html
 ```
 
