@@ -28,6 +28,8 @@
 -   [Resources](#resources)
 -   [Let's Connect!](#lets-connect)
 
+<br>
+
 #
 
 <p id="100days"><p>
@@ -41,6 +43,8 @@
 -   <a href="https://animejs.com/">Anime.js</a> is a lightweight JavaScript animation library with a simple, yet powerful API.
 
 -   See <a href="https://github.com/emjose/block-animation/#header">first mini project</a>.
+
+<br>
 
 #
 
@@ -60,6 +64,8 @@ git clone git@github.com:emjose/heart-animation.git && cd heart-animation
 open index.html
 ```
 
+<br>
+
 #
 
 <p id="live-site"><p>
@@ -68,6 +74,10 @@ open index.html
 
 <a href="https://emjose.github.io/heart-animation/">![Live Site](Assets/012-hearts.gif)</a>
 
+The **[Heart Animation](https://emjose.github.io/heart-animation/)** is a [progressive web app](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).
+
+<br>
+
 #
 
 <p id="resources"><p>
@@ -75,13 +85,18 @@ open index.html
 <a href=#resources>![Resources](https://res.cloudinary.com/dn1e07eul/image/upload/v1659314247/Readme%20Headers/inter-resources_ncevbw.png)</a>
 
 -   #### [Google Fonts](https://fonts.google.com/)
+
 -   #### [Anime.js on Github](https://github.com/juliangarnier/anime)
+
 -   #### [Anime.js](https://animejs.com/) by [Julian Garnier](https://github.com/juliangarnier)
+
 -   #### [Animated Blocks Tutorial](https://youtu.be/XMhHEVznWEY) by [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
 -   #### [Animated Hearts Tutorial](https://youtu.be/MBnS34iENrw) by [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
 -   #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd)
+
+<br>
 
 #
 
