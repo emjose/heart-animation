@@ -26,6 +26,7 @@
 - [Installation](#installation)
 - [Live Site](#live-site)
 - [Resources](#resources)
+- [Copyright](#copyright)
 - [Let's Connect!](#lets-connect)
 
 <br>
@@ -95,6 +96,16 @@ The **[Heart Animation](https://emjose.github.io/heart-animation/)** is a [progr
 - #### [Animated Hearts Tutorial](https://youtu.be/MBnS34iENrw) by [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
 - #### [My blog on how I created my Github READMEs](https://emmanueljose.medium.com/readme-a-makeover-story-b9c7be37a6de?sk=7ae6623d365409d875753e4604e42ffd)
+
+<br>
+
+#
+
+<p id="copyright"><p>
+
+<a href=#copyright>![Copyright](https://res.cloudinary.com/dn1e07eul/image/upload/v1659391383/Readme%20Headers/inter-copyright_ax53yz.png)</a>
+
+All visual assets of this project are copyright of © <a href="https://www.emmanuel-jose.com/">Emmanuel Jose</a>. All Rights Reserved.
 
 <br>
 
